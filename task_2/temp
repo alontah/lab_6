@@ -1,0 +1,13 @@
+total 76
+-rw-rw-r-- 1 spl211 spl211    13 May 18 13:14 in.txt
+-rw-rw-rw- 1 spl211 spl211  3898 Apr 22 10:53 LineParser.c
+-rw-rw-rw- 1 spl211 spl211  1218 Apr 22 10:53 LineParser.h
+-rw-rw-r-- 1 spl211 spl211  9648 May 18 14:51 LineParser.o
+-rw-rw-r-- 1 spl211 spl211   211 May 18 13:27 makefile
+-rwxrwxr-x 1 spl211 spl211 19656 May 18 14:51 myshell
+-rw-rw-r-- 1 spl211 spl211    29 May 18 13:17 out2.txt
+-rw-rw-r-- 1 spl211 spl211    13 May 18 14:24 out3.txt
+-rw-rw-r-- 1 spl211 spl211    13 May 18 13:14 out.txt
+-rw-rw-rw- 1 spl211 spl211  3094 May 18 14:51 task2.c
+-rw-rw-r-- 1 spl211 spl211  9776 May 18 14:51 task2.o
+-rw-rw-r-- 1 spl211 spl211     0 May 18 14:53 temp
